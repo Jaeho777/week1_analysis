@@ -1,0 +1,4 @@
+﻿eligible_min_24_weeks,filter_reason,sku_count,avg_effective_weeks
+False,effective_history_less_than_24_weeks,576,10.844494047619047
+False,no_positive_demand,24,
+True,pass,16693,166.71793138270104
